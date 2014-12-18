@@ -9,6 +9,6 @@ All you have to do to execute the script in apple.js is:
 2) Navigate to the folder that contains hello.js, 
 3) Execute the following command:
   
-node hello.js
+node apple.js
 
 You should see 'Hello World!' displayed in the console.
